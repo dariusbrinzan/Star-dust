@@ -17,7 +17,7 @@ In al doilea task al problemei, la fiecare pereche de date citite am verificat t
 In al treilea task al problemei, am utilizat algoritmul fill care in general ne ajuta sa gasim
  diferite "insule". Astfel, l-am implementat pentru acest task astfel incat sa parcurga
   matricea de la un element cu 0 spre vecinii sai tot egali cu 0. Daca elementul gasit este
-   egal 0 il marcam cu o alta valoare si trecem la vecinii sa-i care sunt nuli incrementand cu
+   egal 0 il marcam cu o alta valoare si trecem la vecinii lui care sunt nuli incrementand cu
     variabila count. Astfel dupa completarea algoritmului am aflat cea mai mare suprafata care
      ne-a fost ceruta in acest task.
      
