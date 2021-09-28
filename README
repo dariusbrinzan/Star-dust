@@ -1,0 +1,25 @@
+312CA - Brinzan Darius-Ionut
+
+star_dust : 
+	task 1:
+In cadrul primului task al problemei, cu ajutorul unui pointer char am parcurs toate
+ elementelematricei cu conditia ca acesta sa se afle pe chenarul acesteia, unde variabila bytes
+  reprezinta numarul de bytes, iar prin variabila m_a am returnat media aritmetica ceruta.
+  
+	task 2:
+In al doilea task al problemei, la fiecare pereche de date citite am verificat tipul de
+ operatie pe care trebuia sa-l efectuez si ulterior am efectuat cate o functie pentru fiecare
+  operatie in parte . In functia de stergere, am utiliazt un pointer p cu care am modificat
+   valoarea byte-ului in 0. In functia de interschimbare, am reusit sa schimb valorile bytes
+   -lor.In functia de modificare am verificat dimensiunea datelor si daca lungimea liniei este
+    ok pentru a efectua modificarea. Astfel cu un pointer am reusit sa modific valoarea byte-ului.
+	task 3:
+In al treilea task al problemei, am utilizat algoritmul fill care in general ne ajuta sa gasim
+ diferite "insule". Astfel, l-am implementat pentru acest task astfel incat sa parcurga
+  matricea de la un element cu 0 spre vecinii sai tot egali cu 0. Daca elementul gasit este
+   egal 0 il marcam cu o alta valoare si trecem la vecinii sa-i care sunt nuli incrementand cu
+    variabila count. Astfel dupa completarea algoritmului am aflat cea mai mare suprafata care
+     ne-a fost ceruta in acest task.
+     
+	In main am realizat citirile/afisarile corespunzatoare finalizarii temei.
+	
